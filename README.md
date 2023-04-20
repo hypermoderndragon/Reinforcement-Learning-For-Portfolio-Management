@@ -11,6 +11,8 @@ After running three models, PPO, A2C, and TRPO, consistent outperformance of an 
 
 Further steps are to improve reproducibility of portfolio strategy outperformance and to test in more diverse environments.
 
+This model should not be used and is not financial advice.  It is a toy created for learning purposes.  
+
 - [Data is included in the Data folder](/tree/main/Data)
 - [The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
 - [The associated presentation is included as Presentation-Slides](/Presentation-Slides.pdf)
