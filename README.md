@@ -11,6 +11,9 @@ After running three models, PPO, A2C, and TRPO, consistent outperformance of an 
 
 Further steps are to improve reproducibility of portfolio strategy outperformance and to test in more diverse environments.
 
-[Data is included in the Data folder](/tree/main/Data)
-[The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
-[The associated presentation is included as Presentation-Slides](/Presentation-Slides.pdf)
+- [Data is included in the Data folder](/tree/main/Data)
+- [The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
+- [The associated presentation is included as Presentation-Slides](/Presentation-Slides.pdf)
+
+
+--[Citation used for reference](https://arxiv.org/pdf/1706.10059.pdf%EF%BC%89)
