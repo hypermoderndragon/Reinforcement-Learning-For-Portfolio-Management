@@ -17,7 +17,7 @@ This model should not be applied to real-world situations and is not financial a
 
 - [Data is included in the Data folder](/tree/main/Data)
 - [The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
-- [The associated presentation is included as Presentation-Slides](/Presentation-Slides.pdf)
+- [The associated presentation is included as 'presentation'.](/blob/main/presentation.pdf)
 
 
 --[Citation used for reference](https://arxiv.org/pdf/1706.10059.pdf%EF%BC%89)
