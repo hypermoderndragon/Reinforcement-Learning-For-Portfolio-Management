@@ -13,7 +13,7 @@ After running three models, PPO, A2C, and TRPO, consistent outperformance of an 
 
 Further steps are to improve reproducibility of portfolio strategy outperformance, test in more diverse environments, and to account for certain ommitted real-world variables such as the bid-ask spread and transaction fees.   
 
-This model should not be applied to real-world situations and is not financial advice.  It is a toy created for learning purposes.  
+This model should not be applied to real-world situations and is not financial advice.  It is a toy created for learning purposes.  It should be noted for reproducibility that due to the random element of training and testing outcomes, results will vary each time the code is ran.
 
 - [Data is included in the Data folder](/tree/main/Data)
 - [The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
