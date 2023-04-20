@@ -3,7 +3,7 @@
 ![download (4)](https://user-images.githubusercontent.com/103140702/233470094-62b07402-cd74-48af-a07f-aff9b1633db5.png)
 
 
-In this project, I experiment with constructing a reinforcement learning environment to teach a network how to balance an actively managed stock market portfolio, under the assumption that it may be able to combine existing strategies in novel or interesting ways.  
+In this project, I experiment with constructing a reinforcement learning environment to teach a network how to balance an actively managed stock market portfolio, under the assumption that it may be able to combine existing financial strategies in novel or interesting ways.  
 
 I create a portfolio of six commonly-traded large-cap stocks and manipulate this data to provide common financial metrics such as volatility, log return, expected returns, and asset betas.  Data is sourced from Bloomberg and backtestmarket.com.  This notebook uses asset data, index fund futures data as a proxy for a market benchmark, and treasury returns as a proxy for the riskless rate.
 
