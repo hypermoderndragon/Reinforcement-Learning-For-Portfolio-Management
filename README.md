@@ -9,9 +9,9 @@ I then calculate portfolio weights across the entire timespace using three diffe
 
 After running three models, PPO, A2C, and TRPO, consistent outperformance of an evenly-weighted portfolio is achieved across all models - numerically, they all achieve high returns.  The metric of greater interest is outperformance of the individual portfolio strategies (the Sharpe Ratio and maximum diversification).  Not all iterations of the models demonstrate this, but TRPO and PPO achieve this most consistently.
 
-Further steps are to improve reproducibility of portfolio strategy outperformance and to test in more diverse environments.
+Further steps are to improve reproducibility of portfolio strategy outperformance, test in more diverse environments, and to account for certain ommitted real-world variables such as the bid-ask spread and transaction fees.   
 
-This model should not be used and is not financial advice.  It is a toy created for learning purposes.  
+This model should not be applied to real-world situations and is not financial advice.  It is a toy created for learning purposes.  
 
 - [Data is included in the Data folder](/tree/main/Data)
 - [The code is included as Reinforcement-Learning-Final](/blob/main/Reinforcement-Learning-Final.ipynb)  
