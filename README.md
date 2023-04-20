@@ -1,6 +1,6 @@
 # Reinforcement-Learning-For-Portfolio-Management
 
-In this project, I experiment with constructing a reinforcement learning environment to teach a network how to balance an actively managed portfolio.  I create a portfolio of six commonly-traded large-cap stocks and manipulate this data to provide common financial metrics such as volatility, log return, expected returns, and asset betas.  
+In this project, I experiment with constructing a reinforcement learning environment to teach a network how to balance an actively managed portfolio.  I create a portfolio of six commonly-traded large-cap stocks and manipulate this data to provide common financial metrics such as volatility, log return, expected returns, and asset betas.  Data is sourced from Bloomberg and backtestmarket.com.
 
 I then calculate portfolio weights across the entire timespace using three different techniques, the Sharpe Ratio, the minimum variance technique, and the maximum diversification technique.  I chose to use the Sharpe and maximum diversification techniques as the two possible actions for the network, as one is high-risk and one is lower-risk.
 
